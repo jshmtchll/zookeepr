@@ -144,6 +144,28 @@
         "hungry"
       ],
       "id": "14"
+    },
+    {
+      "name": "chester",
+      "species": "dog",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "anxious"
+      ],
+      "id": "15"
+    },
+    {
+      "name": "Astrid",
+      "species": "Dog",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "loving",
+        "goofy"
+      ],
+      "id": "16"
     }
   ]
 }
